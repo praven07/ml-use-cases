@@ -105,3 +105,4 @@ poetry.lock
 .komodotools/
 .bash_history
 .bash_sessions/
+*.DS_Store
